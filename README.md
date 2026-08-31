@@ -24,7 +24,7 @@
 
 ## <code>> ABOUT_ME.exe</code> <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45px"></picture>
 
-🎓 **Software Engineering Student (8th Semester)** at **Universidad Peruana Cayetano Heredia (UPCH)**.
+🎓 **Informatics Engineering Student (8th Semester)** at **Universidad Peruana Cayetano Heredia (UPCH)**.
 
 🛡️ **Specialized in Defensive & Offensive Cybersecurity and Secure Development (DevSecOps):**
 - **Cybersecurity:** Ethical Hacking, PenTesting in Linux environments (Kali / BlackArch), vulnerability assessment in code and architecture, network defense, and threat management.
