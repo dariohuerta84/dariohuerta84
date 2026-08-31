@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="left" valign="middle">
-      <img src="./dante_pixel_art.png" width="170px" alt="Dante Pixel Art" />
+      <img src="https://raw.githubusercontent.com/dariohuerta84/dariohuerta84/main/dante_pixel_art.png" width="170px" alt="Dante Pixel Art" />
     </td>
     <td align="center" valign="middle">
       <h1><code>> HE'YA I'M DARIO HUERTA</code></h1>
@@ -13,7 +13,7 @@
       <a href="https://github.com/dariohuerta84"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     </td>
     <td align="right" valign="middle">
-      <img src="./vergil_pixel_art.png" width="170px" alt="Vergil Pixel Art" />
+      <img src="https://raw.githubusercontent.com/dariohuerta84/dariohuerta84/main/vergil_pixel_art.png" width="170px" alt="Vergil Pixel Art" />
     </td>
   </tr>
 </table>
